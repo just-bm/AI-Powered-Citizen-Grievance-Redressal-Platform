@@ -1,4 +1,4 @@
-For the **Detailed Project Charter**, visit 👉 [Detailed Project Charter](https://www.notion.so/Mini-Project-Full-Research-and-Implementation-Report-30abaf650415802fb519ebdd02385832?source=copy_link)
+For the **Detailed Project Charter**, visit [Notion] 👉 [Detailed Project Charter](https://www.notion.so/AI-Powered-Citizen-Grievance-Redressal-Platform-30abaf650415808482cfe786c4f2ef63?source=copy_link)
 
 ---
 
