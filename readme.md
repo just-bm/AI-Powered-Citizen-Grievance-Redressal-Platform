@@ -1,3 +1,5 @@
+For the **Detailed Project Charter**, visit 👉 [Detailed Project Charter](https://www.notion.so/Mini-Project-Full-Research-and-Implementation-Report-30abaf650415802fb519ebdd02385832?source=copy_link)
+
 ---
 
 # 🏛️ AI-Powered Citizen Grievance Redressal Platform
